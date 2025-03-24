@@ -3,22 +3,21 @@
     background: red;
     size: 24px;
 }
-.text   
+.text-blue  
 {
     color:blue;
 }
-.descripcion
-{
-    font-size:16px;
+.descripcion{
+    font-size: 20px;
 }
-
-p
-{
- color: burlywood
+p{
+    color: burlywood;
 }
-
-#titulo
-{
-    font-size :45 px;
+#titulo{
+    font-size: 32px;
 }
-
+.pueblo{
+    border: solid 10px black;
+    padding: 58px;
+    margin: 20px 50px 32px 100px;
+}
